@@ -8,7 +8,7 @@ Our consulting arm leverages this same cutting‑edge stack to fast‑track R&D 
 We’re a boutique tech consulting shop turning ideas into shipping products for startups and scale‑ups worldwide. 
 # Peek at our work → **[openqquantify.com](http://www.openqquantify.com)**
 
-# Unlock Tech Growth in 2025: Book Your FREE R&D + Digital Biz Dev"
+# Unlock Tech Growth in 2025: Book Your R&D + Digital Biz Dev
 - Fast‑track your product roadmap and digital strategy with OpenQ Quantify—our consultants guarantee 100 % satisfaction, or you don’t pay.
 - We handle consulting, startups, technology, product-development, and business for you!
 Take a look at our book a meeting links and sales sheet below in "Why You Should Care?" & "Why OpenQQuantify?".
