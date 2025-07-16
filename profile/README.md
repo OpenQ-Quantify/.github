@@ -32,7 +32,7 @@ Take a look at our book a meeting links and sales sheet below in "Why You Should
 1. **End‑to‑End R&D** — Hardware, firmware, cloud, Web3: we’ve built it.  
 2. **Growth Mindset** — Every sprint maps to a business metric, not vanity code.  
 3. **Startup‑Friendly** — Flexible retainers and *Digital Growth Packages*
-# Peek [Here](https://docs.google.com/document/d/1inM7T9QLtiN0kkZ7plKLJLv_ORU_WDK-xdmW65Tr298/edit?usp=sharing)).  
+# Peek [Here](https://docs.google.com/document/d/1inM7T9QLtiN0kkZ7plKLJLv_ORU_WDK-xdmW65Tr298/edit?usp=sharing) 
 5. **100 % Satisfaction Guarantee** — You get value or you don’t pay. Period.  
 
 ---
@@ -78,18 +78,19 @@ Take a look at our book a meeting links and sales sheet below in "Why You Should
 
 ## Next Steps (Super Simple)
 
-1. **Grab a time slot** on our Calendly → [Book now](https://calendly.com/openqquantifyexecutivemeeting/businessdevelopment).  
-2. **Tell us your top challenge** (we’ll send a short pre‑call form).  
-3. **Meet our senior consultant** on Zoom. Walk away with a game plan—no strings attached.
+# 1. **Grab a time slot** on our Calendly → [Book now](https://calendly.com/openqquantifyexecutivemeeting/businessdevelopment).  
+# 2. **Tell us your top challenge** (we’ll send a short pre‑call form).  
+# 3. **Meet our team** on Zoom. Walk away with a game plan—no strings attached.
 
 > **👇 Don’t wait—digital markets move fast.  
-> Lock your consultation before Q3 fills up!**
+> Lock your consultation today!**
 
 ---
 
 ### About OpenQ Quantify
 
-We’re a boutique tech consulting shop turning ideas into shipping products for startups and scale‑ups worldwide. Peek at our work → **[openqquantify.com](http://www.openqquantify.com)**
+We’re a boutique tech consulting shop turning ideas into shipping products for startups and scale‑ups worldwide. 
+# Peek at our work → **[openqquantify.com](http://www.openqquantify.com)**
 
 ---
 
@@ -97,6 +98,7 @@ We’re a boutique tech consulting shop turning ideas into shipping products for
 
 *100 % satisfaction guaranteed—let’s build something amazing, together.* 🚀
 
+# The OpenQQuantify Platform & Gitub Repository
 
 ## End‑to‑End Development Pipeline
 
