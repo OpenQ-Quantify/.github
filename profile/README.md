@@ -31,8 +31,9 @@ Take a look at our book a meeting links and sales sheet below in "Why You Should
 
 1. **End‑to‑End R&D** — Hardware, firmware, cloud, Web3: we’ve built it.  
 2. **Growth Mindset** — Every sprint maps to a business metric, not vanity code.  
-# 3. **Startup‑Friendly** — Flexible retainers and *Digital Growth Packages* (peek [here](https://docs.google.com/document/d/1inM7T9QLtiN0kkZ7plKLJLv_ORU_WDK-xdmW65Tr298/edit?usp=sharing)).  
-4. **100 % Satisfaction Guarantee** — You get value or you don’t pay. Period.  
+3. **Startup‑Friendly** — Flexible retainers and *Digital Growth Packages*
+# (peek [here](https://docs.google.com/document/d/1inM7T9QLtiN0kkZ7plKLJLv_ORU_WDK-xdmW65Tr298/edit?usp=sharing)).  
+5. **100 % Satisfaction Guarantee** — You get value or you don’t pay. Period.  
 
 ---
 
