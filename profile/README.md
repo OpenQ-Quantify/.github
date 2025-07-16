@@ -96,7 +96,9 @@ We’re a boutique tech consulting shop turning ideas into shipping products for
 **#R&DConsulting #DigitalBusinessDevelopment #TechStrategy #StartupGrowth #AIIntegration #ProductDevelopment**
 
 *100 % satisfaction guaranteed—let’s build something amazing, together.* 🚀
-
+---
+# ---
+---
 # The OpenQQuantify Platform & Gitub Repository
 
 ## End‑to‑End Development Pipeline
