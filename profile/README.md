@@ -23,7 +23,7 @@ Take a look at our book a meeting links and sales sheet below in "Why You Should
 | **AI / ML Integration** | Custom models, not copy‑paste APIs | Competitive edge |
 | **Data Strategy** | Strategy + governance | Lower burn, smarter scale |
 
-# > **Ready to level‑up?** → [**Book your strategy call**](https://calendly.com/openqquantifyexecutivemeeting/businessdevelopment) (slots fill fast!)  
+# **Ready to level‑up?** → [**Book your strategy call**](https://calendly.com/openqquantifyexecutivemeeting/businessdevelopment) (slots fill fast!)  
 
 ---
 
