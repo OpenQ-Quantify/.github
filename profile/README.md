@@ -1,5 +1,3 @@
-# OpenQQuantify
-
 ## What is OpenQQuantify?
 
 OpenQQuantify is an open‑source, AI‑powered Electronic Design Automation (EDA) & simulation platform that lets you design, prototype, and validate electronics faster than ever. By uniting Generative AI, machine learning, autonomous multi‑agent orchestration, and a cloud‑native, game‑engine digital‑twin, we accelerate every phase of the hardware lifecycle — from napkin concept ⇢ mass‑production.
