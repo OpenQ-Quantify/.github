@@ -69,7 +69,7 @@ Take a look at our book a meeting links and sales sheet below in "Why You Should
 
 ## Special Offers 🎁
 
-1. **FREE 30‑Minute Audit** — Codebase or growth funnel (your pick).  
+1. **FIRST TIME CONSULTING** — LIMITED TIME OFFER CURRENTLY RUNNING WEEKLY FOR THE NEXT 3 MONTHS FOR CONSULTING SERVICES.  
 2. **Launch Pad Package** — MVP build + GTM roadmap at 15 % off *(limited to 3 startups/month)*.  
 3. **AI Jumpstart** — 2‑week sprint to embed generative AI in your workflow.
 
