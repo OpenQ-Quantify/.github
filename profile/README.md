@@ -79,7 +79,7 @@ Take a look at our book a meeting links and sales sheet below in "Why You Should
 
 # 1. **Grab a time slot** on our Calendly → [Book now](https://calendly.com/openqquantifyexecutivemeeting/businessdevelopment).  
 # 2. **Tell us your top challenge** (we’ll send a short pre‑call form).  
-# 3. **Meet our team** on Zoom. Walk away with a game plan—no strings attached.
+# 3. **Meet our team.** Walk away with a game plan—no strings attached.
 
 > **👇 Don’t wait—digital markets move fast.  
 > Lock your consultation today!**
