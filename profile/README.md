@@ -18,12 +18,12 @@ Take a look at our book a meeting links and sales sheet below in "Why You Should
 
 | 💡 Need | 🛠️ What We Do | ⚡ Result |
 | --- | --- | --- |
-| Rapid **Tech R&D** | Prototypes → MVP in weeks | Faster time‑to‑market |
+| **Rapid Tech R&D** | Prototypes → MVP in weeks | Faster time‑to‑market |
 | **Digital Business Development** | Go‑to‑market playbooks | Revenue‑ready launches |
 | **AI / ML Integration** | Custom models, not copy‑paste APIs | Competitive edge |
-| **Fractional CTO** | Strategy + governance | Lower burn, smarter scale |
+| **Data Strategy** | Strategy + governance | Lower burn, smarter scale |
 
-> **Ready to level‑up?** → [**Book your strategy call**](https://calendly.com/openqquantifyexecutivemeeting/businessdevelopment) (slots fill fast!)  
+# > **Ready to level‑up?** → [**Book your strategy call**](https://calendly.com/openqquantifyexecutivemeeting/businessdevelopment) (slots fill fast!)  
 
 ---
 
@@ -31,7 +31,7 @@ Take a look at our book a meeting links and sales sheet below in "Why You Should
 
 1. **End‑to‑End R&D** — Hardware, firmware, cloud, Web3: we’ve built it.  
 2. **Growth Mindset** — Every sprint maps to a business metric, not vanity code.  
-3. **Startup‑Friendly** — Flexible retainers and *Digital Growth Packages* (peek [here](https://docs.google.com/document/d/1inM7T9QLtiN0kkZ7plKLJLv_ORU_WDK-xdmW65Tr298/edit?usp=sharing)).  
+# 3. **Startup‑Friendly** — Flexible retainers and *Digital Growth Packages* (peek [here](https://docs.google.com/document/d/1inM7T9QLtiN0kkZ7plKLJLv_ORU_WDK-xdmW65Tr298/edit?usp=sharing)).  
 4. **100 % Satisfaction Guarantee** — You get value or you don’t pay. Period.  
 
 ---
@@ -52,8 +52,7 @@ Take a look at our book a meeting links and sales sheet below in "Why You Should
 - Custom LLM fine‑tuning  
 - Predictive analytics dashboards  
 
-### 🧑‍💼 Fractional Leadership
-- Interim CTO/CPO roles  
+### 🧑‍💼 **Data Strategy** 
 - Engineering culture workshops  
 
 ---
