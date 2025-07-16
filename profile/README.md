@@ -9,10 +9,12 @@ Prompt‑Driven Engineering: Instead of clicking through dozens of disjointed CA
 # 🚀 Unlock Tech Growth in 2025: Book Your FREE R&D + Digital Biz Dev Call Today"
 - Fast‑track your product roadmap and digital strategy with OpenQ Quantify—our consultants guarantee 100 % satisfaction, or you don’t pay.
 - We handle consulting, startups, technology, product-development, and business for you!
+Take a look at our book a meeting links and sales sheet below in "Why You Should Care?" & "Why OpenQQuantify?".
+- Partner with us, let's do business & grow together.
 
 ---
 
-## TL;DR (Why You Should Care)
+## Why You Should Care
 
 | 💡 Need | 🛠️ What We Do | ⚡ Result |
 | --- | --- | --- |
