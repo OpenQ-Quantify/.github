@@ -245,12 +245,6 @@ Need our team's help? Book an executive meeting with us here: https://calendly.c
 
 ## License
 
-Distributed under the MIT License — see `LICENSE`.
+Spcifications vary.
 
-## Sponsors & Partners
 
-Backed by Microsoft, Google, AWS, NVIDIA, and the Linux Foundation (>$100 k cloud credits). Trusted by Tomorrow's AI, Moment Factory, REW, Mazda, and hundreds of indie makers.
-
-⭐️ Your future is now — let's innovate together!
-
-If OpenQQuantify accelerates your hardware journey, star ⭐ this repo and spread the word! Together we'll reshape electronics design.
