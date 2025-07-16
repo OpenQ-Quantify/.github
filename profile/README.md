@@ -5,6 +5,9 @@ OpenQ Quantify is an open‑source, AI‑powered Electronic Design Automation 
 ## Consulting & Partnerships
 Our consulting arm leverages this same cutting‑edge stack to fast‑track R&D and digital business development for our clients. We don’t just advise—we build, test, and launch alongside you, ensuring every sprint maps to a measurable business metric.
 
+We’re a boutique tech consulting shop turning ideas into shipping products for startups and scale‑ups worldwide. 
+# Peek at our work → **[openqquantify.com](http://www.openqquantify.com)**
+
 # Unlock Tech Growth in 2025: Book Your FREE R&D + Digital Biz Dev"
 - Fast‑track your product roadmap and digital strategy with OpenQ Quantify—our consultants guarantee 100 % satisfaction, or you don’t pay.
 - We handle consulting, startups, technology, product-development, and business for you!
@@ -86,16 +89,16 @@ Take a look at our book a meeting links and sales sheet below in "Why You Should
 
 ---
 
-### About OpenQ Quantify
-
-We’re a boutique tech consulting shop turning ideas into shipping products for startups and scale‑ups worldwide. 
-# Peek at our work → **[openqquantify.com](http://www.openqquantify.com)**
-
----
-
 **#R&DConsulting #DigitalBusinessDevelopment #TechStrategy #StartupGrowth #AIIntegration #ProductDevelopment**
 
 *100 % satisfaction guaranteed—let’s build something amazing, together.* 🚀
+
+## Sponsors & Partners
+Backed by Microsoft, Google, AWS, NVIDIA, and the Linux Foundation (>$100 k cloud credits). Trusted by Tomorrow's AI, Moment Factory, REW, Mazda, and hundreds of indie makers.
+
+- ⭐️ Your future is now — let's innovate together!
+
+- If OpenQQuantify accelerates your hardware journey, star ⭐ this repo and spread the word! Together we'll reshape electronics design.
 ---
 # ---
 ---
