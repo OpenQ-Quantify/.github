@@ -1,8 +1,9 @@
 ## What is OpenQQuantify?
 
-OpenQQuantify is an open‑source, AI‑powered Electronic Design Automation (EDA) & simulation platform that lets you design, prototype, and validate electronics faster than ever. By uniting Generative AI, machine learning, autonomous multi‑agent orchestration, and a cloud‑native, game‑engine digital‑twin, we accelerate every phase of the hardware lifecycle — from napkin concept ⇢ mass‑production.
+OpenQ Quantify is an open‑source, AI‑powered Electronic Design Automation (EDA) & simulation platform that lets you design, prototype, and validate electronics faster than ever. By uniting Generative AI, machine learning, autonomous multi‑agent orchestration, and a cloud‑native, game‑engine digital twin, we accelerate every phase of the hardware lifecycle — from napkin concept ➜ mass‑production.
 
-Prompt‑Driven Engineering: Instead of clicking through dozens of disjointed CAD tools, simply describe the device you want in plain English (or Python) and let our AI agents generate schematics, firmware, documentation, and a photorealistic digital twin that you can play‑test inside a AAA‑grade game engine.
+## Consulting & Partnerships
+Our consulting arm leverages this same cutting‑edge stack to fast‑track R&D and digital business development for our clients. We don’t just advise—we build, test, and launch alongside you, ensuring every sprint maps to a measurable business metric.
 
 # Unlock Tech Growth in 2025: Book Your FREE R&D + Digital Biz Dev"
 - Fast‑track your product roadmap and digital strategy with OpenQ Quantify—our consultants guarantee 100 % satisfaction, or you don’t pay.
