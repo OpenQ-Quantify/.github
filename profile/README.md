@@ -100,7 +100,7 @@ Backed by Microsoft, Google, AWS, NVIDIA, and the Linux Foundation (>$100 k clou
 
 - If OpenQQuantify accelerates your hardware journey, star ⭐ this repo and spread the word! Together we'll reshape electronics design.
 ---
-# ---
+---
 ---
 # The OpenQQuantify Platform & Gitub Repository
 
