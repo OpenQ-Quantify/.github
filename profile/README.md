@@ -80,9 +80,9 @@ Take a look at our book a meeting links and sales sheet below in "Why You Should
 
 ## Next Steps (Super Simple)
 
-# 1. **Grab a time slot** on our Calendly → [Book now](https://calendly.com/openqquantifyexecutivemeeting/businessdevelopment).  
-# 2. **Tell us your top challenge** (we’ll send a short pre‑call form).  
-# 3. **Meet our team.** Walk away with a game plan—no strings attached.
+ 1. **Grab a time slot** on our Calendly → [Book now](https://calendly.com/openqquantifyexecutivemeeting/businessdevelopment).  
+ 2. **Tell us your top challenge** (we’ll send a short pre‑call form).  
+ 3. **Meet our team.** Walk away with a game plan—no strings attached.
 
 > **👇 Don’t wait—digital markets move fast.  
 > Lock your consultation today!**
@@ -92,6 +92,7 @@ Take a look at our book a meeting links and sales sheet below in "Why You Should
 **#R&DConsulting #DigitalBusinessDevelopment #TechStrategy #StartupGrowth #AIIntegration #ProductDevelopment**
 
 *100 % satisfaction guaranteed—let’s build something amazing, together.* 🚀
+---
 
 ## Sponsors & Partners
 Backed by Microsoft, Google, AWS, NVIDIA, and the Linux Foundation (>$100 k cloud credits). Trusted by Tomorrow's AI, Moment Factory, REW, Mazda, and hundreds of indie makers.
