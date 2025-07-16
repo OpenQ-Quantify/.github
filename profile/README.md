@@ -56,7 +56,7 @@ Take a look at our book a meeting links and sales sheet below in "Why You Should
 
 ---
 
-## Case Study Quick Hits
+## Proven Results - Case Study Quick Hits
 
 * **FinTech MVP**: Built PCI‑compliant platform in 10 weeks → Seed round closed at $3 M.  
 * **IoT Startup**: Cut firmware OTA cost by 42 % using edge AI compression.  
