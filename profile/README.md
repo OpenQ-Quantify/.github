@@ -1,3 +1,4 @@
+<img width="1536" height="685" alt="OQQ_banner" src="https://github.com/user-attachments/assets/4e7d15ac-594d-47a7-9f64-a5eb99dbcd07" />
 
 OpenQ Quantify is an open‑source, AI‑powered Electronic Design Automation (EDA) & simulation platform that lets you design, prototype, and validate electronics faster than ever. By uniting Generative AI, machine learning, autonomous multi‑agent orchestration, and a cloud‑native, game‑engine digital twin, we accelerate every phase of the hardware lifecycle from concept to production.
 
